@@ -44,7 +44,27 @@
 
 ## Project Planning Schedule
 
-### Today Wednesday 11/01/2023
+### This Week
+
+- [Wednesday](#wednesday)
+- [Thursday](#thursday-feature-listmvp-list)
+- [Saturday](#saturday-database-schema)
+
+### Next Week
+
+- [Monday](#monday-user-stories)
+- [Tuesday](#tuesday-api-docs)
+- [Wednesday](#wednesday-scrum-board)
+- [Thursday](#thursday-redux-state-shape--front-end-routes)
+- [Saturday](#saturday-build-in-starter--deploy)
+
+<br/>
+
+## This Week
+
+<a name="wednesday"></a>
+
+### Wednesday
 
 - Choose a Group Name
 - Choose a Group Project from our available list
@@ -56,7 +76,9 @@
 
 <br/>
 
-### Thursday 11/02/2023 Feature List/MVP List
+<a name="thursday-feature-listmvp-list"></a>
+
+### Thursday Feature List/MVP List
 
 - Start working on your Feature List/MVP List
 - These will be the 4 features that were provided with the project that your group has chosen
@@ -68,7 +90,9 @@
 
 <br/>
 
-### Saturday 11/04/2023 Database Schema
+<a name="saturday-database-schema"></a>
+
+### Saturday Database Schema
 
 - Start Working on Your Database Schema Documentation
 - Your Database Schema will be a visual representation of all the tables and their assigned columns for you application to work
@@ -80,7 +104,11 @@
 
 <br/>
 
-### Monday 11/06/2023 User Stories
+## Next Week
+
+<a name="monday-user-stories"></a>
+
+### Monday User Stories
 
 - Start working on your User Stories wiki
 - User stories will tell a story of how a feature will work
@@ -91,7 +119,9 @@
 
 <br/>
 
-### Tuesday 11/07/2023 API Docs
+<a name="tuesday-api-docs"></a>
+
+### Tuesday API Docs
 
 - Start Working on Your API Docs Wiki
 - API Docs will be used in order to establish what our backend api will look like when coding it out.
@@ -102,7 +132,9 @@
 
 <br/>
 
-### Wednesday 11/08/2023 SCRUM Board
+<a name="wednesday-scrum-board"></a>
+
+### Wednesday SCRUM Board
 
 - Start Creating A workflow visualization that youre team can use to keep track of your progress.
 - You can use Github Projects and their Kanban board, or something like [Asana](https://asana.com/)
@@ -110,7 +142,9 @@
 
 <br/>
 
-### Thursday 11/09/2023 Redux State Shape && Front End Routes
+<a name="thursday-redux-state-shape--front-end-routes"></a>
+
+### Thursday Redux State Shape && Front End Routes
 
 #### Redux State Shape
 
@@ -125,6 +159,8 @@
 
 <br/>
 
-### Saturday 11/11/2023 Build in starter && Deploy
+<a name="saturday-build-in-starter--deploy"></a>
+
+### Saturday Build in starter && Deploy
 
 <br/>
