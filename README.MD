@@ -23,7 +23,7 @@
 
 ## Project Planning
 
-- Over the next two week we will be alotting a minimum of 2 hours per day for project planning.
+- Over the next two week we will be alotting a minimum of 1 hour per day for project planning.
 - We will use this time to Create Documentation's for our projects that will aide us in our projects development cycle.
 
 ### The Required Documents
